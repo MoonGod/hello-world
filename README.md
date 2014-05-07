@@ -1,5 +1,7 @@
 hello-world
-===========
+
+
+delete=--------------
 
 simple test project
 
